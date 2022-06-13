@@ -14,12 +14,13 @@
      This game is all about remincing your childhood memories. This is made with python. 
    
 Rules: 
-
-   <code>1. You have to roll a dice. <br>
-      2. Whatever number comes in, an associated task will be given to you. <br>
-      3. You have to perform the task. <br>
-      4. After you're done, press enter.<br> 
+```
+      1. You have to roll a dice. 
+      2. Whatever number comes in, an associated task will be given to you. 
+      3. You have to perform the task. 
+      4. After you're done, press enter. 
       5. Don't forget to have fun🥳 </code> 
+``` 
 
 ### <u> ***Modules and Functionality :*** </u> 
 
@@ -33,16 +34,16 @@ The most researching part of this game is <mark>How to connect MySQL database wi
 After googling it for almost 10 times, I finally found my answer🤩. 
 Here is the code snippet: 
 
-<code>import mysql.connector <br>
-    mydb = mysql.connector.connect(<br>
-        host="localhost",<br>
-        user= "root",<br>
-        passwd= "yourpassword",<br>
-        database = "roll_a_dice_python"<br>
-)<br>
-mycursor = mydb.cursor()</code> 
-
-Take a look at this video: 
+``` 
+  import mysql.connector 
+    mydb = mysql.connector.connect(
+        host="localhost",
+        user= "root",
+        passwd= "yourpassword",
+        database = "roll_a_dice_python"
+)
+mycursor = mydb.cursor() 
+```
 
 
 
