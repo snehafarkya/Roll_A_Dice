@@ -8,7 +8,7 @@ Hey Everyone! Welcome on the board! This is a Dice rolling game made with python
 
 ### <u> ***About the Game :*** </u>
 
-<mark style="background: purple; color:white;padding:3px">Remember playing a rolling dice game in childhood?</mark> 
+<mark>"Remember playing a rolling dice game in childhood?"</mark> 
      We've all loved it when dice throws 6 because of the extra chance it gives!
      This game is all about remincing your childhood memories. This is made with python. 
    
